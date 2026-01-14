@@ -5,8 +5,7 @@ export default defineAppConfig({
     url: 'localhost:3000',
     // image: '/preview.png',
     socials: {
-      twitter: 'artjhom',
-      github: 'artjHom00/nuxt3-saas-boilerplate',
+      github: 'artyooooom/nuxt3-saas-boilerplate',
     },
     aside: {
       level: 0,
